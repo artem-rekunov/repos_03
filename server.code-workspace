@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../repos_04-main"
 		}
 	],
 	"settings": {}
