@@ -1,0 +1,8 @@
+{
+  "name": "repos_03",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/artem-rekunov/repos_03.git",
+  "author": "Artem <artemrekunov23@gmail.com>",
+  "license": "MIT"
+}
